@@ -9,6 +9,8 @@ CaesarDGreat Fork changes from EukaDesign's:
 - added M104 preheat in various places to reduce wait time by maybe a few seconds 
 - overall rearranged and cleaned up some gcode for efficiency
 
+This works on my X1C with limited testing. Use at your own risk!
+
 Original ReadMe from EukaDesigns:
 
 # Custom G-Code for Bambu Studio
